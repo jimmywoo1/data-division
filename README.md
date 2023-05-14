@@ -1,4 +1,4 @@
-# COMP-4107-Project
+# Effects of Data Division Methods on Model Performance
 
 The following repository contains the course project for COMP 4107 - Neural Networks for the academic year 2019 - 2020.
 
